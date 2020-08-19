@@ -171,14 +171,14 @@ There are 8 assignment in total during the course with deadline roughly every se
 
 |                                   | Expected deadline   |
 | --------------------------------- | ------------------- |
-| A0: Getting started with file(1)  | 06 Sep @ 16:00PM    |
-| A1: file(1) - Unicode             | 20 Sep @ 16:00PM    |
-| A2: Simulering of x86 subset      | 04 Oct @ 16:00PM    |
-| A3: Program behaviour             | 25 Oct @ 16:00PM    |
-| A4: Processes                     | 08 Nov @ 16:00PM    |
-| A5: Concurrent Programming        | 29 Nov @ 16:00PM    |
-| A6: Computer Networking - 1       | 13 Dec @ 16:00PM    |
-| A7: Computer Networking - 2       | 10 Jan @ 16:00PM    |
+| A0: Getting started with file(1)  | 06 Sep @ 16:00      |
+| A1: file(1) - Unicode             | 20 Sep @ 16:00      |
+| A2: Simulering of x86 subset      | 04 Oct @ 16:00      |
+| A3: Program behaviour             | 25 Oct @ 16:00      |
+| A4: Processes                     | 08 Nov @ 16:00      |
+| A5: Concurrent Programming        | 29 Nov @ 16:00      |
+| A6: Computer Networking - 1       | 13 Dec @ 16:00      |
+| A7: Computer Networking - 2       | 10 Jan @ 16:00      |
 
 The assignments will be graded with points from 0 to 4 and it is not possible to re-hand-in any of the assignments.
 
