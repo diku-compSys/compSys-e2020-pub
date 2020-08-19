@@ -63,18 +63,21 @@ TAs:
  * Bjarke Pedersen
  * 
 
-## Lectures
+## Lectures (times are expected but not yet confirmed)
 
- * Mondays at 13-15 in St. UP1
- * Wednesdays at 10-12 in St. UP1
-   * Note, lecture on Nov 6 have been moved to Friday Nov 8
+ * Mondays at 13-15
+ * Wednesdays at 10-12
 
-## Exercise Classes (expected but not yet confirmed)
+All lectures will be online. The exact format and location can vary.
+
+## Exercise Classes (times are expected but not yet confirmed)
 
  * Mondays 15-17
    * These classes are dedicated to exercises and not making assignments.
  * Wednesdays 13-15
    * These classes are dedicated to exercises and not making assignments.
+
+NB! Exercises will be partly online and partly held at the university. The intention is that all students will have exercise classes at the university every week. It is important that you actively participate in these as this will be your only chance to have physical confrontation time with teachers and TAs.
 
 ### Teams (coming later)
 * Hold 1: 
@@ -98,11 +101,13 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
  * HCØ, Aud 7 is 1st floor in Vandrehallen
  -->
 
-## Cafées (expected but not yet confirmed)
+## Cafées (times are expected but not yet confirmed)
  * Wednesdays 15-17
    * This sessions have a café structure and are dedicated to help with assignments and other open questions.
  * Fridays 14-16
    * TA organised café classes for help with assignments and exercises.
+
+NB! Cafées will be partly online and partly held at the university. The intention is that all students a café session once each week. It is important that you actively participate in these as this will be your only chance to have physical confrontation time with teachers and TAs to ask about assignments.
 
 ### Blok 1
 <!-- Wednesday 15-17
