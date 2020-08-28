@@ -65,51 +65,79 @@ TAs:
 
 ## Lectures (times are expected but not yet confirmed)
 
- * Mondays at 13-15
- * Wednesdays at 10-12
+ * Mondays at 12:45-14:30
+ * Wednesdays at 10:15-12:00
 
 All lectures will be online. The exact format and location can vary.
 
-## Exercise Classes (times are expected but not yet confirmed)
+## Exercise Classes
+Exercises will mainly be with physical help, but there will also will be an option for online help.
 
- * Mondays 15-17
+There is room for 24 students in each room and due to Covid-19 restrictions this is a hard limit. I don't expect that this will be a problem, but if you arrive and the room is full, you have to find another room or use the online forum.
+
+ * Mondays 15:30-17:00
    * These classes are dedicated to exercises and not making assignments.
- * Wednesdays 13-15
+ * Wednesdays 13:15-15:00
    * These classes are dedicated to exercises and not making assignments.
 
-NB! Exercises will be partly online and partly held at the university. The intention is that all students will have exercise classes at the university every week. It is important that you actively participate in these as this will be your only chance to have physical confrontation time with teachers and TAs.
+NB! You are only allowed to arrive 15 minutes before these times.
 
-### Teams (coming later)
+
+### Teams
+
 * Hold 1: 
+  * Monday: NBB 01.3.I.164
+  * Wednesday: HCØ A101
 * Hold 2: 
+  * Monday: NBB 01.3.I.080
+  * Wednesday: HCØ A102
 * Hold 3: 
+  * Monday: NBB 01.3.H.142
+  * Wednesday: HCØ A104
 * Hold 4: 
+  * Monday: NBB 01.1.I.156
+  * Wednesday: HCØ A105
 * Hold 5: 
+  * Monday: NBB 01.2.H.142
+  * Wednesday: HCØ A111
 * Hold 6: 
+  * Monday: Biocenter 4-0-13
+  * Wednesday: HCØ A112
 * Hold 7: 
-* Hold 8: 
+  * Monday: Biocenter 4-0-10
+  * Wednesday: DIKU 1-0-37
 
-<!-- ### Room details 
+
+
+### Room details
 Map of Nørre Campus:
 https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
 
- * AB Teori 2, Nørre Alle 55, https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/kort_2012_a4.pdf
  * Biocenter, Ole Maaløes Vej 5, https://www.biocenter.ku.dk/kort/
  * DIKU, No further explanation needed
- * NEXS, Nørre Alle 51-53, https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/kort_2012_a4.pdf
- * NBB, Niels Bohr Building, Jagtvej 128 (other side of Jagtvej)
+ * NBB, Niels Bohr Building, Jagtvej 155 (other side of Jagtvej)
  * HCØ, Aud 7 is 1st floor in Vandrehallen
- -->
 
 ## Cafées (times are expected but not yet confirmed)
- * Wednesdays 15-17
+ * Wednesdays 15:15-17:00
    * This sessions have a café structure and are dedicated to help with assignments and other open questions.
- * Fridays 14-16
+ * Fridays 14:15-16:00
    * TA organised café classes for help with assignments and exercises.
 
-NB! Cafées will be partly online and partly held at the university. The intention is that all students a café session once each week. It is important that you actively participate in these as this will be your only chance to have physical confrontation time with teachers and TAs to ask about assignments.
 
-### Blok 1
+### Rooms
+Wednesday
+ * HCØ A101
+ * HCØ A102
+ * HCØ A112
+ * HCØ A111
+Friday
+ * HCØ A102
+ * HCØ A103
+ * HCØ A104
+ * HCØ A105
+ * HCØ A106
+
 <!-- Wednesday 15-17
 * Main room
   * DIKU Li UP1
@@ -130,9 +158,8 @@ Friday 14-16
   * HCØ A110
   * HCØ A111
   * HCØ A112
- -->
 ### Blok 2
-<!-- Wednesday 15-17
+Wednesday 15-17
 * Main room
   * DIKU Bib 4-0-17
 * Breakout rooms:
