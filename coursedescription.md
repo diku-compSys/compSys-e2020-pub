@@ -5,7 +5,7 @@ This course is a general introduction to computer systems. You will learn how co
 Make sure that you read all the following carefully.
 
 ## Preparation for CompSys
-CompSys have gotten a reputation of being both a hand and informative course. As you can see below (and the course description), we will cover a lot of different topics that conceptually are very different is a short time. It is therefore important that you are ready for the course when we start in September, avoiding to fall behind during the first weeks.
+CompSys have gotten a reputation of being both a hard and informative course. As you can see below (and the course description), we will cover a lot of different topics that conceptually are very different, in a short time. It is therefore important that you are ready for the course when we start in September, avoiding to fall behind during the first weeks.
 
 We do not ask you to read ahead in the material. However, most of you are still inexperienced programmers and CompSys in very heavy on programming and program understanding. You need to think of programming as a _craft_, like playing an instrument. You have during the first year learned the basics of how it works. But if you lay it away over the summer (do not program for two months) you will lose much of these skills that you have gain over the first year.
 
