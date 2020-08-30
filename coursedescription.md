@@ -63,7 +63,7 @@ TAs:
  * Magnus Joensen
  * 
 
-## Lectures (times are expected but not yet confirmed)
+## Lectures
 
  * Mondays at 12:45-14:30
  * Wednesdays at 10:15-12:00
