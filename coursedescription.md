@@ -55,12 +55,12 @@ Instructors:
 
 TAs:
 
+ * Alexander Christensen
+ * Bjarke Pedersen
  * Jens Kanstrup Larsen
+ * Jonas Grønborg
  * Kristian Bøjer Andreasen
  * Magnus Joensen
- * Alexander Christensen
- * Jonas Grønborg
- * Bjarke Pedersen
  * 
 
 ## Lectures (times are expected but not yet confirmed)
@@ -85,25 +85,25 @@ NB! You are only allowed to arrive 15 minutes before these times.
 
 ### Teams
 
-* Hold 1: 
+* Hold 1: Alexander
   * Monday: NBB 01.3.I.164
   * Wednesday: HCØ A101
-* Hold 2: 
+* Hold 2: Bjarke
   * Monday: NBB 01.3.I.080
   * Wednesday: HCØ A102
-* Hold 3: 
+* Hold 3: Jens
   * Monday: NBB 01.3.H.142
   * Wednesday: HCØ A104
-* Hold 4: 
+* Hold 4: Jonas
   * Monday: NBB 01.1.I.156
   * Wednesday: HCØ A105
-* Hold 5: 
+* Hold 5: Kristian
   * Monday: NBB 01.2.H.142
   * Wednesday: HCØ A111
-* Hold 6: 
+* Hold 6: Michael (so far)
   * Monday: Biocenter 4-0-13
   * Wednesday: HCØ A112
-* Hold 7: 
+* Hold 7: Magnus
   * Monday: Biocenter 4-0-10
   * Wednesday: DIKU 1-0-37
 
