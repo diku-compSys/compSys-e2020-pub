@@ -2,7 +2,7 @@
 
 Throughout the course we will use C as programming language, so it is important that you have access to a compiler on your machine. For this we recommend GCC (https://gcc.gnu.org/), which is also the compiler we will use check correctness of your implementations. For what we are to use, there should be no difference between the later versions, so need not to install the latest GCC that is larger than version 8.2. We will also from second week introduce GDB, so you can just as well also install this.
 
-We will also later during the course use a simulation tool that might (or might not) course problems on non-Linux machines. We will at this time release a VM image that you can use in case of problems. See more about running the image further below.
+We will also later during the course use a simulation tool that might (or might not) cause problems on non-Linux machines. We will at this time release a VM image that you can use in case of problems. See more about running the image further below.
 
 ## Roll Your Own Toolchain
 Most of you should not have a problem with running needed software on your local machine, so see OS specific pages for rolling out your toolchain.
