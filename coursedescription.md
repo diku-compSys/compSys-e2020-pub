@@ -178,8 +178,7 @@ Friday 13-15
 The second year study ambassadors will can help you find a find a groups, if you are missing one. They can also be the link to the study administration; if there is something you are in doubt about and feel better to ask a fellow student, they are available. One of them will always be available at the Friday cafées.
 
 The study ambassadors are:
-* 
-* 
+* All the TAs
 
 
 ## Teaching Material
