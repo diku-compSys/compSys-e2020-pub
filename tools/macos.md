@@ -18,24 +18,10 @@ type
 First time Homebrew will install many needed programs (including compiling them for you system), so it can take a long time.
 
 
-## GDB Code signing GDB
-Previous setup is obsolete and will be updated. If you have a description, please contact me.
-<!-- NOTE: The following is abo
+## Use LLDB instead of GDB
 
-To use gdb on macOS you need it to be code signed.
-
-You can find an explanation of how to do it here:
-  * [https://gist.github.com/hlissner/898b7dfc0a3b63824a70e15cd0180154](https://gist.github.com/hlissner/898b7dfc0a3b63824a70e15cd0180154)
-
-If you are getting errors like
-
-```
-During startup program terminated with signal ?, Unknown signal.
-```
-then try to:
-  1. Add file `.gdbinit` in your $HOME with the content `set startup-with-shell off`
-  2. Install/Downgrade to gdb 8.0.1 [https://stackoverflow.com/questions/49001329/gdb-doesnt-work-on-macos-high-sierra-10-13-3](https://stackoverflow.com/questions/49001329/gdb-doesnt-work-on-macos-high-sierra-10-13-3)
-
-
-If you use Sierra, there is an extra step. Follow this manual:
-  * [https://gist.github.com/gravitylow/fb595186ce6068537a6e9da6d8b5b96d](ht -->tps://gist.github.com/gravitylow/fb595186ce6068537a6e9da6d8b5b96d)
+GDB (a C debugger) is tricky to get working on macOS.  Instead, you
+should use LLDB (`lldb`), which has equivalent functionality for our
+purposes, and almost the same commands.  [See this GDB to LLDB command
+map](https://lldb.llvm.org/use/map.html), and note that you likely
+need only a small fraction of these commands for CompSys.
