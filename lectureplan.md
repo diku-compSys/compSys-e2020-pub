@@ -55,5 +55,5 @@ This course schedule is tentative and will be updated.
  - BOH: Bryant, O'Hallaron: Computer Systems: A Programmer's Perspective, 3rd and global edition
    - Errata: http://csapp.cs.cmu.edu/3e/errata.html
  - KR: James F. Kurose, Keith W. Ross: Computer Networking: A Top-Down Approach International Edition, 7th and global edition
- - JG: Jens Gustedt, Modern C, http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf, Feb 13, 2018
+ - JG: Modern C, Jens Gustedt, Oct. 10, 2019, https://modernc.gforge.inria.fr/
 
