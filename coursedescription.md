@@ -118,12 +118,11 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
  * NBB, Niels Bohr Building, Jagtvej 155 (other side of Jagtvej)
  * HCØ, Aud 7 is 1st floor in Vandrehallen
 
-## Cafées (times are expected but not yet confirmed)
+## Cafées
  * Wednesdays 15:15-17:00
    * This sessions have a café structure and are dedicated to help with assignments and other open questions.
  * Fridays 14:15-16:00
    * TA organised café classes for help with assignments and exercises.
-
 
 ### Rooms
 Wednesday
