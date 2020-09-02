@@ -6,7 +6,7 @@
 #     ./programname
 
 # OS X users should use additionally gcc-X, gcc will invoke the Clang compiler
-CC=gcc
+CC=gcc-9
 CFLAGS=-std=c11 -Wall -Werror -Wextra -pedantic
 
 .PHONY: clean all
