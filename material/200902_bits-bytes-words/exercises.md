@@ -1,4 +1,9 @@
-# Exercises for 2019-09-04
+# Exercises for 2020-09-02
+
+## Integer representation
+Play with integer representation. Try to get `0xA` correct on the different "levels".
+
+http://topps.diku.dk/compsys/integers.html
 
 ## File check
 
