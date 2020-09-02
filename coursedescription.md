@@ -131,6 +131,7 @@ Wednesday
  * HCØ A102
  * HCØ A112
  * HCØ A111
+
 Friday
  * HCØ A102
  * HCØ A103
