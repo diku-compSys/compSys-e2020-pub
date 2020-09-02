@@ -1,5 +1,7 @@
 # Exercises for 2020-09-02
 
+You can find an example of a C program using I/O under code.
+
 ## Integer representation
 Play with integer representation. Try to get `0xA` correct on the different "levels".
 
