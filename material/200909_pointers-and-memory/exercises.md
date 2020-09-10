@@ -31,4 +31,4 @@ We recommend to investigate in the following order:
 ## Play with floating points
 
 Integers are by now way too easy. Don't miss the [Floating point
-game](https://games.onlineta.org/floating-point.html).
+game](http://topps.diku.dk/compsys/floating-point.html).
