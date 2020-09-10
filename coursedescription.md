@@ -61,7 +61,7 @@ TAs:
  * Jonas Grønborg
  * Kristian Bøjer Andreasen
  * Magnus Joensen
- * 
+ * Walter Restelli-Nielsen
 
 ## Lectures
 
@@ -100,7 +100,7 @@ NB! You are only allowed to arrive 15 minutes before these times.
 * Hold 5: Kristian
   * Monday: NBB 01.2.H.142
   * Wednesday: HCØ A111
-* Hold 6: Michael (so far)
+* Hold 6: Walter
   * Monday: Biocenter 4-0-13
   * Wednesday: HCØ A112
 * Hold 7: Magnus
