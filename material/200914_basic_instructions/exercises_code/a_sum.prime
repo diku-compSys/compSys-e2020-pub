@@ -1,0 +1,19 @@
+plus:
+.LFB0:
+    subq $8, %rsp
+    movq %r11, (%rsp)
+    movq (%rdi), %rax
+    xorq %r8d, %r8d
+    cbe $0,%rax,.L1
+.L3:
+    leaq (%rax, %rax, 4), %rax
+    addq $8, %rdi
+    addq %rax, %r8
+    movq (%rdi), %rax
+    cbne $0,%rax,.L3
+.L1:
+    movq %r8, %rax
+    movq (%rsp), %r11
+    addq $8, %rsp
+    ret %r11
+.LFE0:
