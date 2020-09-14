@@ -37,9 +37,7 @@ args.fileCont = file.read()
 file.close()
 
 
-
-
-# x86prime Online location
+# gdb online location
 URL = "http://topps.diku.dk/compsys/gdb.php"
 # defining a params dict for the parameters to be sent to the API
 DATA = {"file":args.fileCont, "gdb":args.gdbCont}
@@ -50,8 +48,6 @@ URLDIR = "http://topps.diku.dk/compsys/gcc_runs/"
 # extracting data in json format
 runid = r.text
 
-print (runid)
-
 error = requests.get(url = URLDIR+runid+".error")
 
 if error.text != "":
@@ -60,6 +56,3 @@ if error.text != "":
 else:
   gdb = requests.get(url = URLDIR+runid+".out")
   print (gdb.text)
-  # if args.output != None:
-  # else:
-  #   print(assembler.text)
