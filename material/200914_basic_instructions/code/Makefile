@@ -18,7 +18,7 @@ files:	sum.s	sum.d	sum64 swap.s arith.s
 
 
 sum: sum.c
-	$(CC) $(CFLAGS) $(CINC) $(F64) sum.c -o sum64
+	$(CC) $(CFLAGS) $(CINC) $(F64) sum.c -o sum
 
 clean:
 	rm -f *~ *.s *.d sum
