@@ -52,7 +52,7 @@ file.close()
 # x86prime Online location
 URL = "http://topps.diku.dk/compsys/gcc.php"
 # defining a params dict for the parameters to be sent to the API
-DATA = {"file":args.fileCont, "Wall":args.Wall, "Wextra":args.Wextra, "Winline":args.Winline, "pedantic":args.pedantic, "osc":args.osc}
+DATA = {"filename":args.file, "file":args.fileCont, "Wall":args.Wall, "Wextra":args.Wextra, "Winline":args.Winline, "pedantic":args.pedantic, "osc":args.osc}
 # sending get request and saving the response as response object
 r = requests.post(url = URL, data = DATA)
 
