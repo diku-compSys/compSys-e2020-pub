@@ -23,15 +23,12 @@ for tool in ${tools[@]}; do
   fi
 done
 
-echo ${x86prime_path} > ~/.x86prime_path
-
 for tool in ${tools[@]}; do
   echo '#!/usr/bin/env bash
 
 set -euo pipefail
 args=$(echo "${*:1}")
-x86p_path=$(cat ~/.x86prime_path)
-python3 ${x86p_path}/'${tool}'.py $args
+python3 '${x86prime_path}'/'${tool}'.py $args
 ' > /usr/local/bin/${tool}
   chmod a+x /usr/local/bin/${tool}
 done
