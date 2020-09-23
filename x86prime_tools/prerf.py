@@ -127,10 +127,14 @@ for key in args_list:
       else:
         flaglist += ' -'+key+' '+str(value)
 
-## Get possible inputs
+# Read arguments for stdin if they are piped
 input = ""
-for line in sys.stdin:
-  input += line
+timeout = 0.1
+rlist, _, _ = select([sys.stdin], [], [], timeout)
+if rlist:
+  for line in sys.stdin:
+    line = line.rstrip("\n\r")
+    input += line+" "
 
 # defining a params dict for the parameters to be sent to the API
 DATA = {'file':args.fileCont,'sym':symfile_cont,"prg":args.prg, "args":strargs, "flaglist":flaglist, "input":input}
