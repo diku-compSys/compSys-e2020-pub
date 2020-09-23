@@ -32,3 +32,6 @@ python3 '${x86prime_path}'/'${tool}'.py $args
 ' > /usr/local/bin/${tool}
   chmod a+x /usr/local/bin/${tool}
 done
+
+echo "All done."
+echo "Restart the terminal for the installation to have effect."
