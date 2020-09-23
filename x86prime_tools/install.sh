@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo ">> Setting up x86prime tools."
+echo ">> Installing x86prime tools."
 
 declare -a tools=("gcc-online" "gdb-online" "prasm" "prerf" "primify" "prun")
 x86prime_path="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
