@@ -58,10 +58,22 @@ file = open(symfile, 'r')
 symfile_cont = file.read()
 file.close()
 
+
+
+# timeout = 10
+# print "Enter something:",
+# rlist, _, _ = select([sys.stdin], [], [], timeout)
+# if rlist:
+#     s = sys.stdin.readline()
+#     print s
+# else:
+#     print "No input. Moving on..."
+
+
 input = ""
-for line in sys.stdin:
-  line.rstrip("\n\r")
-  input += line+" "
+# for line in sys.stdin:
+#   line.rstrip("\n\r")
+#   input += line+" "
 
 # x86prime Online location
 URL = "http://topps.diku.dk/compsys/prun.php"
