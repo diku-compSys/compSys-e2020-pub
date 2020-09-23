@@ -1,15 +1,9 @@
 #!/usr/bin/env bash
 
-if [ "$#" -ne 1 ]; then
-   echo "[CompSys] Scripts for setting up x86prime tools."
-   echo "Usage:"
-   echo "  ./install.sh [dir]"
-   echo "    dir:  The absolut tid to your tool location. On MacOS starts likely with /Users/"
-   exit 1;
-fi
+echo ">> Setting up x86prime tools."
 
 declare -a tools=("gcc-online" "gdb-online" "prasm" "prerf" "primify" "prun")
-x86prime_path=$1
+x86prime_path="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 if [[ ! -d "${x86prime_path}" ]] ; then
   echo "The given directory does not exist!"
@@ -23,12 +17,15 @@ for tool in ${tools[@]}; do
   fi
 done
 
+mkdir -p /usr/local/lib/x86prime
+
 for tool in ${tools[@]}; do
+  cp ${x86prime_path}/${tool}.py /usr/local/lib/x86prime/
   echo '#!/usr/bin/env bash
 
 set -euo pipefail
 args=$(echo "${*:1}")
-python3 '${x86prime_path}'/'${tool}'.py $args
+python3 /usr/local/lib/x86prime/'${tool}'.py $args
 ' > /usr/local/bin/${tool}
   chmod a+x /usr/local/bin/${tool}
 done
