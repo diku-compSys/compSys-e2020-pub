@@ -4,6 +4,7 @@ import sys, re, os, mimetypes
 import argparse
 import requests
 import functools
+from select import select
 
 parser = argparse.ArgumentParser(description='Simulates x86prime machine code.\n  Be aware that this script cannot take inputs from stdin. However is does support command-line arguments.\n  Execution time is limited to 5 minutes.')
 parser.add_argument('file', metavar='hex-file',
@@ -58,10 +59,14 @@ file = open(symfile, 'r')
 symfile_cont = file.read()
 file.close()
 
+# Read arguments for stdin if they are piped
 input = ""
-for line in sys.stdin:
-  line.rstrip("\n\r")
-  input += line+" "
+timeout = 0.1
+rlist, _, _ = select([sys.stdin], [], [], timeout)
+if rlist:
+  for line in sys.stdin:
+    line = line.rstrip("\n\r")
+    input += line+" "
 
 # x86prime Online location
 URL = "http://topps.diku.dk/compsys/prun.php"

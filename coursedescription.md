@@ -108,7 +108,6 @@ NB! You are only allowed to arrive 15 minutes before these times.
   * Wednesday: DIKU 1-0-37
 
 
-
 ### Room details
 Map of Nørre Campus:
 https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
@@ -126,17 +125,16 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
 
 ### Rooms
 Wednesday
- * HCØ A101
- * HCØ A102
- * HCØ A112
- * HCØ A111
+ * HCØ A101 - Hold 1
+ * HCØ A102 - Hold 2 og Hold 3
+ * HCØ A111 - Hold 5 og Hold 4
+ * HCØ A112 - Hold 6 og Hold 7
 
 Friday
- * HCØ A102
- * HCØ A103
- * HCØ A104
- * HCØ A105
- * HCØ A106
+ * HCØ A102 - Hold 1
+ * HCØ A103 - Hold 2 og Hold 3
+ * HCØ A104 - Hold 4 og Hold 5
+ * HCØ A105 - Hold 6 og Hold 7
 
 <!-- Wednesday 15-17
 * Main room
