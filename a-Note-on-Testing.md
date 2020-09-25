@@ -1,4 +1,4 @@
-#A Note on Testing
+# A Note on Testing
 _Author: Michael Kirkedal Thomsen_
 
 Testing is not something that should be put together in a last minute effort. You do not argue that a program is correct by showing a couple of examples and perhaps a screen dump. Firstly, this shows very little correctness of your implementation and, secondly, this is not how you use testing when implemented.
