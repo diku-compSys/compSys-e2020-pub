@@ -93,13 +93,16 @@ NB! You are only allowed to arrive 15 minutes before these times.
   * Wednesday: HCØ A102
 * Hold 3: Jens
   * Monday: NBB 01.3.H.142
-  * Wednesday: HCØ A104
+  * Wednesday: HCØ A104?
 * Hold 4: Jonas
   * Monday: NBB 01.1.I.156
   * Wednesday: HCØ A105
-* Hold 5: Kristian
-  * Monday: NBB 01.2.H.142
+* Hold 5: Alexander, Kristian (online)
+  * Monday: NBB 01.3.I.164
+  * Wednesday: HCØ A101
+<!--   * Monday: NBB 01.2.H.142
   * Wednesday: HCØ A111
+ -->
 * Hold 6: Walter
   * Monday: Biocenter 4-0-13
   * Wednesday: HCØ A112
@@ -125,15 +128,15 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
 
 ### Rooms
 Wednesday
- * HCØ A101 - Hold 1
+ * HCØ A101 - Hold 1 og Hold 5
  * HCØ A102 - Hold 2 og Hold 3
- * HCØ A111 - Hold 5 og Hold 4
+ * HCØ A111 - Hold 4
  * HCØ A112 - Hold 6 og Hold 7
 
 Friday
- * HCØ A102 - Hold 1
+ * HCØ A102 - Hold 1 og Hold 5
  * HCØ A103 - Hold 2 og Hold 3
- * HCØ A104 - Hold 4 og Hold 5
+ * HCØ A104 - Hold 4
  * HCØ A105 - Hold 6 og Hold 7
 
 <!-- Wednesday 15-17
