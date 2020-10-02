@@ -214,6 +214,22 @@ Assignments are made to be solved in groups of preferably three students, but gr
 ### Feedback
 Feedback to assignments will be given by TAs on the course. It will be given written and can be expected about two weeks after the hand-in. Feedback will focus on what could be approved in the assignment relating to both technical implementations, and report structure and material. The feedback may thus be useful for later assignment. Feedback will not give a direct justification of the evaluation in number of points.
 
+We expect the correction of submissions to take about as long as a the submission (either one or two weeks).
+
+### Hand-in
+The system in Absalon for group hand-ins does not always work as intended; we are therefore working around this. When you hand-in your assignments you are also asked to give a `group.txt` file, that contain the KU-ids of all group members terminated with a line-break; and only this. No names or other messages. The content of `group.txt` could look like:
+
+```
+dlb838
+mdt733
+agy623
+
+```
+
+You should still only make one submission per group; not one for each member. Note, that this means that the submission in Absalon is then only registered with the student doing the hand-in. However, we consider (behind Absalon) all valid KU-ids in the `group.txt`.
+
+When your TA has corrected your submission all members of the group will be given the evaluation (comments and points). If some of your group members have gotten the evaluation, but you are missing, please, contact the course responsible. This often comes from a missing KU-id in the group.txt file. It is there very important that _your report always contain both names and KU-ids of all group members_, as the report is then used for resolution.
+
 ## Exam qualification
 
 To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. A0 and A1 is in total considered the same size as the following assignments: this means that points given in A0 is weighted 1/3 while A1 is weighted 2/3.
