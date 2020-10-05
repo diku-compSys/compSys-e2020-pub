@@ -41,6 +41,11 @@ Hint, I can suggest that you setup a simple test-bench (e.g. using a script) tha
 Consider the following program taken from the slides (note, the indices on the slides are messed up, so this is more correct).
 
 ```
+/* You might want to use different values for L,M,N when performing benchmarks. */
+#define L 10
+#define M 10
+#define N 10
+
 long sum_array_3d(long a[L][M][N])
 {
   long sum = 0;
@@ -55,6 +60,9 @@ long sum_array_3d(long a[L][M][N])
   return sum;
 }
 ```
+
+There is a good reference for how to use 3d arrays here on [stackoverflow](https://stackoverflow.com/questions/40845302/passing-three-dimensional-arrays-to-a-function-in-c).
+
 
 ### Locality
 Sketch what the structure of a 3D array will be like in the 1D memory of the computer. What should be the order of the indices be to achieve spacial locality?
