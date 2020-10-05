@@ -1,0 +1,17 @@
+This is the code that generated the various matrix multiplication 
+performance charts in Introduction to Computer Systems.
+
+Files:
+mm.{c,h}        - regular matmult
+bmm.c           - blocked matmult        
+clock.{c,h}	- routines for accessing the Pentium cycle timers
+fcycmm.{c,h}    - routines that use the K-best scheme for estimating the
+                  number of cycles required by a function with 4 args.
+
+To compile:
+	linux> make clean
+	linux> make
+
+To run:
+	linux> mm
+	linux> bmm
