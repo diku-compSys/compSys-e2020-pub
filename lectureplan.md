@@ -51,7 +51,7 @@ This course schedule is tentative and will be updated.
 | 2    | 11 Jan      | 12:45-14:30      | CN    | Michael  | Introduction to encryption and secure protocols                               | KR 8.1 - 8.4                                                                                                                                                       |
 |      | 13 Jan      | 10:15-12:00      | CN    | Michael  | Security on the network                                                       | KR 8.5 - 8.6, 8.9 (8.9 only cursorily)                                                                                                                             |
 | 3    |             |                  |       | Everyone | Exam question session, recap and evaluation; St. UP1                          |                                                                                                                                                                    |
-|      | 22 Jan      |                  |       |          | CompSys Exam                                                                  |                                                                                                                                                                    |
+|      | 27 Jan      |                  |       |          | CompSys Exam                                                                  |                                                                                                                                                                    |
 
 
  - BOH: Bryant, O'Hallaron: Computer Systems: A Programmer's Perspective, 3rd and global edition
