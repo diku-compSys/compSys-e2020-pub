@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
     // Child
     FILE* out = fopen("output", "w");
     assert(dup2(fileno(out), 1) == 1);
-    exit(execv(argv[1], argv+1));
+    exit(execvp(argv[1], argv+1));
   } else {
     // Parent
     int wstatus;

@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 
   if (ret == 0) {
     // Child
-    exit(execv(argv[1], argv+1));
+    exit(execvp(argv[1], argv+1));
   } else {
     // Parent
     int wstatus;
