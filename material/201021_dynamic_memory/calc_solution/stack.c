@@ -3,11 +3,11 @@
 #include "stack.h"
 
 
-void stack_init(struct stack_t *stack) {
+void stack_init(struct stack *stack) {
   stack->top = NULL;
 }
 
-int stack_empty(struct stack_t *stack) {
+int stack_empty(struct stack *stack) {
   if (stack == NULL) {
     fprintf(stderr, "stack_empty() error: stack uninitialized\n");
     exit(1);
@@ -16,16 +16,16 @@ int stack_empty(struct stack_t *stack) {
   return stack->top == NULL;
 }
 
-void *stack_top(struct stack_t *stack) {
+void *stack_top(struct stack *stack) {
   if (stack == NULL) {
-    fprintf(stderr, "stack_top() error: stack uninitialized\n");
+    fprintf(stderr, "stackop() error: stack uninitialized\n");
     exit(1);
   }
 
   return stack->top->data;
 }
 
-void *stack_pop(struct stack_t *stack) {
+void *stack_pop(struct stack *stack) {
   if (stack == NULL) {
     fprintf(stderr, "stack_pop() error: stack uninitialized\n");
     exit(1);
@@ -45,7 +45,7 @@ void *stack_pop(struct stack_t *stack) {
   return data;
 }
 
-int stack_push(struct stack_t *stack, void *data) {
+int stack_push(struct stack *stack, void *data) {
   if (stack == NULL) {
     fprintf(stderr, "stack_push() error: stack uninitialized\n");
     exit(1);

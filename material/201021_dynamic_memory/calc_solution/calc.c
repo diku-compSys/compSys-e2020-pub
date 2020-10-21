@@ -9,7 +9,7 @@ static void out_of_memory() {
   exit(EXIT_FAILURE);
 }
 
-static void perform_binop(struct stack_t *stack, binop op) {
+static void perform_binop(struct stack *stack, binop op) {
   double *x;
   double *y;
   double *z;
@@ -57,7 +57,7 @@ static double divn(double x, double y) {
 int main() {
   double x;
   int c;
-  struct stack_t stack;
+  struct stack stack;
   stack_init(&stack);
   while (1) {
     c=getc(stdin);

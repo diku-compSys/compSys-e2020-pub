@@ -6,19 +6,19 @@ struct node {
   struct node *next;
 };
 
-struct stack_t {
+struct stack {
   struct node *top;
 };
 
-void stack_init(struct stack_t*);
+void stack_init(struct stack*);
 
-int stack_empty(struct stack_t*);
+int stack_empty(struct stack*);
 
-void* stack_top(struct stack_t*);
+void* stack_top(struct stack*);
 
-void* stack_pop(struct stack_t*);
+void* stack_pop(struct stack*);
 
-int stack_push(struct stack_t*, void*);
+int stack_push(struct stack*, void*);
 
 
 #endif

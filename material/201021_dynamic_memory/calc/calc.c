@@ -9,18 +9,18 @@ static void out_of_memory() {
   exit(EXIT_FAILURE);
 }
 
-static void perform_binop(struct stack* stack, binop op) {
+static void perform_binop(struct stack *stack, binop op) {
   double *x;
   double *y;
   double *z;
-  if ((z = (double*)malloc(sizeof(double))) == NULL) {
+  if ((z = (double*) malloc(sizeof(double))) == NULL) {
     out_of_memory();
   }
   if (!stack_empty(stack)) {
     x = stack_pop(stack);
     if (!stack_empty(stack)) {
       y = stack_pop(stack);
-      *z = (*op)(*x,*y);
+      *z = (*op)(*y, *x);
       free(x);
       free(y);
       if (stack_push(stack, z) == 1) {
@@ -32,6 +32,7 @@ static void perform_binop(struct stack* stack, binop op) {
         out_of_memory();
       }
     }
+    free(x);
   }
   free(z);
   printf("Too few elements on stack.\n");
@@ -84,7 +85,7 @@ int main() {
       break;
     default:
       ungetc(c,stdin);
-      if (scanf("%lf",&x) == 1) {
+      if (scanf("%lf", &x) == 1) {
         double* d;
         if ((d = (double*)malloc(sizeof(double))) == NULL) {
           out_of_memory();
