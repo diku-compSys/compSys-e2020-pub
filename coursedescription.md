@@ -68,7 +68,9 @@ TAs:
  * Mondays at 12:45-14:30
  * Wednesdays at 10:15-12:00
 
-All lectures will be online. The exact format and location can vary.
+Week 45, no teaching Wednesday, but Friday 10:15-12:00
+
+All lectures will be online. The exact format can vary.
 
 ## Exercise Classes
 Exercises will mainly be with physical help, but there will also will be an option for online help.
@@ -80,7 +82,14 @@ There is room for 24 students in each room and due to Covid-19 restrictions this
  * Wednesdays 13:15-15:00
    * These classes are dedicated to exercises and not making assignments.
 
+Week 45, No teaching Wednesday, but Friday 13:15 - 15:00
+
+See [skema.ku.dk](https://skema.ku.dk/tt/tt.asp?SDB=KU2021&language=DK&folder=Reporting&style=textspreadsheet&type=module&idtype=id&id=95292&weeks=1-27&days=1-5&periods=1-68&width=0&height=0&template=SWSCUST2+module+textspreadsheet) for room details.
+
+
 NB! You are only allowed to arrive 15 minutes before these times.
+
+
 
 
 ### Teams
@@ -125,8 +134,10 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
    * This sessions have a café structure and are dedicated to help with assignments and other open questions.
  * Fridays 14:15-16:00
    * TA organised café classes for help with assignments and exercises.
+   * Week 45, 15:15-17:00
 
 ### Rooms
+#### Week 36-44
 Wednesday
  * HCØ A101 - Hold 1 og Hold 5
  * HCØ A102 - Hold 2 og Hold 3
@@ -137,6 +148,19 @@ Friday
  * HCØ A102 - Hold 1 og Hold 5
  * HCØ A103 - Hold 2 og Hold 3
  * HCØ A104 - Hold 4
+ * HCØ A105 - Hold 6 og Hold 7
+
+#### Week 45
+Wednesday
+ * HCØ A101 - Hold 1 og Hold 5
+ * HCØ A102 - Hold 2 og Hold 3
+ * HCØ A111 - Hold 4
+ * HCØ A112 - Hold 6 og Hold 7
+
+Friday 15:15-17:00
+ * HCØ A102 - Hold 1 og Hold 5
+ * HCØ A106 - Hold 2 og Hold 3
+ * HCØ A101 - Hold 4
  * HCØ A105 - Hold 6 og Hold 7
 
 <!-- Wednesday 15-17
