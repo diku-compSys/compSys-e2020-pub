@@ -1,0 +1,6 @@
+*
+!*.pdf
+!*.odp
+!*.md
+!.gitignore
+!*.c
