@@ -1,6 +1,15 @@
+// Futures are a programming abstraction where we can asynchronously
+// create a value by providing a pointer to a function that creates
+// it.  When we then later ask for the actual value, we either receive
+// the value immediately, or block until it is available.  Futures are
+// a pretty simple way to exploit parallelism.  The implementation in
+// this header file is simplistic, in that it does not do any thread
+// pooling.
+
 #include <pthread.h>
 #include <assert.h>
 
+// We represent a future as the data and a thread handle.
 struct future {
   void *data;
   pthread_t p;
