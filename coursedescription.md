@@ -95,52 +95,30 @@ NB! You are only allowed to arrive 15 minutes before these times.
 ### Teams
 
 * Hold 1: Alexander
-  * Blok 1:
-    * Monday: NBB 01.3.I.164
-    * Wednesday: HCØ A101
   * Blok 2:
     * Monday: NBB 01.3.I.164
     * Wednesday: HCØ A110
 * Hold 2: Bjarke
-  * Blok 1:
-    * Monday: NBB 01.3.I.080
-    * Wednesday: HCØ A102
   * Blok 2:
     * Monday: NBB 01.3.I.080
     * Wednesday: HCØ A105
 * Hold 3: Jens
-  * Blok 1:
-    * Monday: NBB 01.3.H.142
-    * Wednesday: HCØ A104?
   * Blok 2:
     * Monday: NBB 01.3.H.142
     * Wednesday: HCØ A104
 * Hold 4: Jonas
-  * Blok 1:
-    * Monday: NBB 01.1.I.156
-    * Wednesday: HCØ A105
   * Blok 2:
     * Monday:  NBB 01.2.I.158
     * Wednesday: HCØ A111
 * Hold 5: Alexander, Kristian (online)
-  * Blok 1:
-    * Monday: NBB 01.3.I.164
-    * Wednesday: HCØ A101
   * Blok 2:
     * Monday: NBB 01.3.I.164
     * Wednesday: HCØ A110
- -->
 * Hold 6: Walter
-  * Blok 1:
-    * Monday: Biocenter 4-0-13
-    * Wednesday: HCØ A112
   * Blok 2:
     * Monday: HCØ A112
     * Wednesday: HCØ A112
 * Hold 7: Magnus
-  * Blok 1:
-    * Monday: Biocenter 4-0-10
-    * Wednesday: DIKU 1-0-37
   * Blok 2:
     * Monday: Biocenter 4-0-10
     * Wednesday: Biocenter 4-0-13
@@ -162,31 +140,6 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
    * Week 45, 15:15-17:00
 
 ### Rooms
-#### Week 36-44
-Wednesday
- * HCØ A101 - Hold 1 og Hold 5
- * HCØ A102 - Hold 2 og Hold 3
- * HCØ A111 - Hold 4
- * HCØ A112 - Hold 6 og Hold 7
-
-Friday
- * HCØ A102 - Hold 1 og Hold 5
- * HCØ A103 - Hold 2 og Hold 3
- * HCØ A104 - Hold 4
- * HCØ A105 - Hold 6 og Hold 7
-
-#### Week 45
-Wednesday
- * HCØ A101 - Hold 1 og Hold 5
- * HCØ A102 - Hold 2 og Hold 3
- * HCØ A111 - Hold 4
- * HCØ A112 - Hold 6 og Hold 7
-
-Friday 15:15-17:00
- * HCØ A102 - Hold 1 og Hold 5
- * HCØ A106 - Hold 2 og Hold 3
- * HCØ A101 - Hold 4
- * HCØ A105 - Hold 6 og Hold 7
 
 #### Blok 2
 Wednesday
