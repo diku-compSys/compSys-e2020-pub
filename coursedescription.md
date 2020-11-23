@@ -121,7 +121,7 @@ NB! You are only allowed to arrive 15 minutes before these times.
 * Hold 7: Alexander
   * Blok 2:
     * Monday: HCØ A112 (flytter fra Biocenter 4-0-10)
-    * Wednesday: HCØ A112
+    * Wednesday: HCØ A112 (flytter fra Biocenter 4-0-13)
 
 ### Room details
 Map of Nørre Campus:
