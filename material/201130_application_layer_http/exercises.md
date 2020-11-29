@@ -6,6 +6,9 @@ Finish the exercises from the first Computer Network lecture.
 
 Review questions
 
+* R3
+* R4
+* R5
 * R10
 * R12
 * R15
