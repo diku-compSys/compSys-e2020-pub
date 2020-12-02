@@ -26,10 +26,10 @@ Today you need to read and understand the code snippets for network programming 
 * You can find the source refs for the BOH book [here](http://csapp.cs.cmu.edu/3e/code.html)
 
 ## Extend the echo server example
-You can do this with any functionality, but we have two suggestions below. You can use any of the server types: iterative, process and threaded. But consider your choice and argue to yourself (and your studie group) why you make the choice. What are the design criteria for the application and why is the chosen server type the best for solving this?
+You can do this with any functionality, but we have two suggestions below. You can use any of the server types: iterative, process and threaded. But consider your choice and argue to yourself (and your study group) why you make the choice. What are the design criteria for the application and why is the chosen server type the best for solving this?
 
 ### Ping/pong
-When the server receives a `ping` message, it replies with a `pong`. It all other cases the server returns `BAD REQUEST`.
+When the server receives a `ping` message, it replies with a `pong`. In all other cases the server returns `BAD REQUEST`.
 
 ### Distributed variable
 The server accepts two different kinds of messages.
