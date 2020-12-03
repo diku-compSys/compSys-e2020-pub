@@ -83,8 +83,6 @@ void *thread(void *vargp)
         reply = "WRONG COMMAND\n"; // Remember line termination for Rio_written
     }
 
-    // while (job_queue->num_used != 0) {
-
     strncpy(buf,reply,strlen(reply));
     Rio_writen(connfd, buf, strlen(buf));
 

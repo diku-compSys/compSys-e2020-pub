@@ -34,7 +34,7 @@ When the server receives a `ping` message, it replies with a `pong`. In all othe
 ### Distributed variable
 The server accepts two different kinds of messages.
 
-* `PUT [SOME STRING]` that stores a string in the internal storage of the server. Note that the first space is a separator.
+* `PUT [SOME STRING]` that stores a string in the internal storage of the server. Note that the first space is a separator and thus part of the protocol syntax.
 * `GET` that returns the string that is stored.
 
 When the server receives a `PUT` it saves the string to an internal variable and returns `OK`. The following `PUT` messages will not update the variable, but return `VARIABLE FILLED`.
