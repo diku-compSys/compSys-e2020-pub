@@ -1,5 +1,18 @@
 # Relevant material
 
+## Keeping your C# up-to-date
+Most of you are still inexperienced programmers and CompSys in very heavy on programming and program understanding. You need to think of programming as a _craft_, like playing an instrument. You have during the first year learned the basics of how it works. But if you lay it away over the summer (do not program for two months) you will lose much of these skills that you have gain over the first year.
+
+It is therefore important that you practice your C# skills and to help you with this we will point you to the follow two resources.
+
+### Edabit
+On Edabit you can filter C# problems after level and topic. You can always start with the medium and work your way upwards. I will also recommend problems under the topics `logic` and `string`. There are much relevant to the problems you will face during CompSys.
+[https://edabit.com/challenges/csharp](https://edabit.com/challenges/csharp)
+
+### Programmr
+Programmr is one of the more popular sources of problems and they also have a section on C#.
+[http://www.programmr.com/exercises?lang=csharp](http://www.programmr.com/exercises?lang=csharp)
+
 ## The Linux/Unix terminal and its tools
 We will extensively use the terminal throughout the course. Being able to work from the terminal is an important skill for a programmer/computer scientist.
 
