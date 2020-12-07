@@ -57,6 +57,7 @@ void *thread(void *vargp)
 
     Rio_readinitb(&rio, connfd);
     n = Rio_readlineb(&rio, buf, MAXLINE);
+    // NB, this does not handle short counts!!!! Inputs larger than MAXLINE
     if (strncmp("PUT ", buf, 4) == 0) {
         assert(pthread_mutex_lock(&mutex) == 0);
         if (storeNotSet) {
@@ -72,6 +73,7 @@ void *thread(void *vargp)
         assert(pthread_mutex_unlock(&mutex) == 0);
     }
     else if (strncmp("GET", buf, 3) == 0) {
+        // NB, this does not handle if message is "GETTT". That is accepted
         assert(pthread_mutex_lock(&mutex) == 0);
         while (storeNotSet) {
             pthread_cond_wait(&cond, &mutex);

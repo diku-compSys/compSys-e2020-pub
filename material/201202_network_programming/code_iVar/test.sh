@@ -18,6 +18,7 @@ echo "" > out2.txt
 serverpid=$(echo "$!")
 echo "Server running on pid: $serverpid"
 
+# Sleeps are not needed but make my presentation dramatic :)
 sleep 1
 
 # Start a couple of gets that should wait
