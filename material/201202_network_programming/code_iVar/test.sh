@@ -6,7 +6,7 @@ TESTOK=1
 
 # make all
 
-echo >> "TESTING: two gets waiting for a put"
+echo "TESTING: two gets waiting for a put"
 
 # Reset outputs
 echo "" > out1.txt
@@ -42,7 +42,7 @@ echo "Putting value"
 putval=$(echo $TESTVAL | ./put localhost $PORT)
 
 echo "The put reply: \"$putval\""
-if [ "$putval" != "K" ]; then
+if [ "$putval" != "OK" ]; then
     TESTOK=0
     echo ">> FAILED PUT"
 fi
