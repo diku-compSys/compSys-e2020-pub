@@ -1,0 +1,31 @@
+.prog: 
+    subq $8, %rsp # ignore
+    movq %r11, (%rsp) # ignore
+    leaq (%rsi), %r11
+    movq $0, %r10
+    movq %r10, (%r11)
+    leaq 8(%rsi), %rax
+    leaq 8(%rsi), %r11
+    movq $1, %r10
+    movq %r10, (%rax)
+.L2:
+    cbge $2, %rdx, .L6 # guard
+    movq (%rax), %rcx
+    movq -8(%rax), %r10
+    addq %r10, %rcx
+    cbl %rdi, %rcx, .L5
+    addq $8, %rax
+    movq %rcx, (%rax)
+    subq $1, %rdx
+    jmp .L2 # while start
+.L6:
+    movq $0, %rax
+    movq (%rsp), %r11 # ignore
+    addq $8, %rsp # ignore
+    ret %r11
+.L5:
+    movq $1, %rax
+    movq (%rsp), %r11 # ignore
+    addq $8, %rsp # ignore
+    ret %r11
+.LFE0:
